@@ -1,2 +1,2 @@
-for deployment please click here bootstrap.github.io
-Whiskey website
+<li> For deployment please click here<li/> bootstrap.github.io
+
