@@ -1,2 +1,2 @@
-<li> For deployment please click here<li/> bootstrap.github.io 
+<li>see the deployment here</> https://bootstrap4.github.io/
 
